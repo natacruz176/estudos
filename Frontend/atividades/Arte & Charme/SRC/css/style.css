@@ -1,0 +1,24 @@
+
+.arte {
+
+width: 100vw;       /* 100% da largura da janela (viewport) */
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    height: 300px;      /* Sua altura fixa */
+    object-fit: cover;
+
+
+}
+
+h1{
+
+text-align: center;
+position: relative;
+top: 200px;
+z-index: 1;
+color: brown;
+font-size: 60px;
+}

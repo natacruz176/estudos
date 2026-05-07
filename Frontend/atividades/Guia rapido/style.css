@@ -1,0 +1,60 @@
+header div {
+    align-content: center;
+    align-self: center;
+    text-align: center;
+
+}
+
+
+h1{
+text-align: center;
+ left: 30%;
+}
+
+body{
+
+    background: linear-gradient(
+    
+    #0d0d0f, 
+    #1a1a1d,
+     #2b0f14
+   
+   
+    );
+
+    height: 125vh;
+}
+
+.-imagem-icon{
+    display: flex;
+
+}
+
+dt{
+    display: inline-block;
+}
+
+body {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: aliceblue;
+background-color: black;
+}
+
+h1, h2 {
+  font-weight: bold;
+  text-align: center;
+  color: #c1121f;
+
+
+}
+
+body{
+
+    background-image:url(fundo.opaco.png);
+    background-size: cover;
+    
+    
+}
+
+
+
